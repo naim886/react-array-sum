@@ -34,7 +34,7 @@ Example Code:
 
 # Bug Report 
 
-- Please feel free to report a bug <naim886@gmail.com>
+- Please feel free to report a bug <naim886@gmail.com> or in [gitHub Repo](https://github.com/naim886/react-array-sum/issues)
 
 # Contributors
 
